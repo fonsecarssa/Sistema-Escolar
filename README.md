@@ -26,7 +26,7 @@ O sistema possui um Menu Principal com várias entidades, sendo a funcionalidade
 
 ### Pré-requisitos
 
-* Python 3.x instalado.
+* Python 3.12 instalado.
 
 ### Estrutura do Projeto
 

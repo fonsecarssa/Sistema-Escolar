@@ -1,19 +1,19 @@
-# 🏫 Sistema de Gerenciamento Escolar Básico
+# - Sistema de Gerenciamento Escolar Básico
 
 Este é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em Python para gerenciar informações básicas de uma instituição escolar. O projeto utiliza uma arquitetura modular para organizar as funcionalidades e persistir os dados em arquivos JSON.
 
 ---
 
-## ✨ Funcionalidades Atuais
+## - Funcionalidades Atuais
 
 O sistema possui um Menu Principal com várias entidades, sendo a funcionalidade de **Estudantes** a única totalmente implementada.
 
 ### Módulo Estudantes
 
-* ✅ **INCLUIR:** Cadastra novos estudantes com validação de nome e CPF (unicidade e formato).
-* ✅ **LISTAR:** Exibe todos os estudantes cadastrados (Código, Nome e CPF).
-* ✅ **ATUALIZAR:** Permite buscar um estudante pelo Código e modificar o Nome e/ou CPF.
-* ✅ **EXCLUIR:** Permite remover um estudante pelo Código após confirmação.
+*  **INCLUIR:** Cadastra novos estudantes com validação de nome e CPF (unicidade e formato).
+*  **LISTAR:** Exibe todos os estudantes cadastrados (Código, Nome e CPF).
+*  **ATUALIZAR:** Permite buscar um estudante pelo Código e modificar o Nome e/ou CPF.
+*  **EXCLUIR:** Permite remover um estudante pelo Código após confirmação.
 
 ### Persistência de Dados
 
@@ -22,7 +22,7 @@ O sistema possui um Menu Principal com várias entidades, sendo a funcionalidade
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## - Como Rodar o Projeto
 
 ### Pré-requisitos
 
@@ -52,7 +52,7 @@ Para garantir que as importações modulares (`servicos` e `modulos`) funcionem 
     ```
 ---
 
-## 🛠️ Próximos Passos (To Do)
+## - Próximos Passos (To Do)
 
 As seguintes funcionalidades estão prontas para serem implementadas, seguindo o padrão modular já estabelecido:
 

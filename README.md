@@ -38,7 +38,7 @@ SistemaEscolar/
 ├── servicos/         # Funções de utilidade (Menus, Validação, Persistência de dados)
 ├── modulos/          # Lógica de negócio (CRUD de Estudantes)
 └── main.py           # Ponto de entrada e Menu Principal
-
+```
 
 ### Execução
 

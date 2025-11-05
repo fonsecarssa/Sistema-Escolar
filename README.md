@@ -63,6 +63,6 @@ As seguintes funcionalidades estão prontas para serem implementadas, seguindo o
 
 ---
 
-## 🧑‍💻 Desenvolvedor(a)
+##  Desenvolvedor(a)
 
 * Desenvolvido por: fonsecarssa
